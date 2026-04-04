@@ -1,0 +1,10 @@
+streamlit==1.45.1
+requests
+biopython
+pubchempy
+py3Dmol
+stmol
+rdkit
+Pillow
+pandas
+plotly

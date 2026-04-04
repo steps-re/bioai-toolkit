@@ -1,0 +1,619 @@
+sequence,full_notation,n_terminal,c_terminal,variable_residue,scaffold,paper,library,type,notes
+RGEFVG,NH2-RGEFV-G(Glycine)-COOH,NH2,COOH,G,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,NH2-RGEFV-A(Alanine)-COOH,NH2,COOH,A,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,NH2-RGEFV-V(Valine)-COOH,NH2,COOH,V,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,NH2-RGEFV-L(Leucine)-COOH,NH2,COOH,L,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,NH2-RGEFV-I(Isoleucine)-COOH,NH2,COOH,I,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,NH2-RGEFV-P(Proline)-COOH,NH2,COOH,P,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,NH2-RGEFV-F(Phenylalanine)-COOH,NH2,COOH,F,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,NH2-RGEFV-W(Tryptophan)-COOH,NH2,COOH,W,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,NH2-RGEFV-M(Methionine)-COOH,NH2,COOH,M,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,NH2-RGEFV-S(Serine)-COOH,NH2,COOH,S,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,NH2-RGEFV-T(Threonine)-COOH,NH2,COOH,T,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,NH2-RGEFV-N(Asparagine)-COOH,NH2,COOH,N,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,NH2-RGEFV-Q(Glutamine)-COOH,NH2,COOH,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,NH2-RGEFV-D(Aspartate)-COOH,NH2,COOH,D,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,NH2-RGEFV-E(Glutamate)-COOH,NH2,COOH,E,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,NH2-RGEFV-K(Lysine)-COOH,NH2,COOH,K,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,NH2-RGEFV-R(Arginine)-COOH,NH2,COOH,R,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,NH2-RGEFV-H(Histidine)-COOH,NH2,COOH,H,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,NH2-RGEFV-Y(Tyrosine)-COOH,NH2,COOH,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,NH2-RGEFV-G(Glycine)-amide,NH2,amide,G,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,NH2-RGEFV-A(Alanine)-amide,NH2,amide,A,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,NH2-RGEFV-V(Valine)-amide,NH2,amide,V,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,NH2-RGEFV-L(Leucine)-amide,NH2,amide,L,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,NH2-RGEFV-I(Isoleucine)-amide,NH2,amide,I,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,NH2-RGEFV-P(Proline)-amide,NH2,amide,P,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,NH2-RGEFV-F(Phenylalanine)-amide,NH2,amide,F,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,NH2-RGEFV-W(Tryptophan)-amide,NH2,amide,W,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,NH2-RGEFV-M(Methionine)-amide,NH2,amide,M,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,NH2-RGEFV-S(Serine)-amide,NH2,amide,S,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,NH2-RGEFV-T(Threonine)-amide,NH2,amide,T,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,NH2-RGEFV-N(Asparagine)-amide,NH2,amide,N,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,NH2-RGEFV-Q(Glutamine)-amide,NH2,amide,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,NH2-RGEFV-D(Aspartate)-amide,NH2,amide,D,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,NH2-RGEFV-E(Glutamate)-amide,NH2,amide,E,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,NH2-RGEFV-K(Lysine)-amide,NH2,amide,K,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,NH2-RGEFV-R(Arginine)-amide,NH2,amide,R,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,NH2-RGEFV-H(Histidine)-amide,NH2,amide,H,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,NH2-RGEFV-Y(Tyrosine)-amide,NH2,amide,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,NH2-RGEFV-G(Glycine)-βA,NH2,βA,G,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,NH2-RGEFV-A(Alanine)-βA,NH2,βA,A,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,NH2-RGEFV-V(Valine)-βA,NH2,βA,V,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,NH2-RGEFV-L(Leucine)-βA,NH2,βA,L,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,NH2-RGEFV-I(Isoleucine)-βA,NH2,βA,I,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,NH2-RGEFV-P(Proline)-βA,NH2,βA,P,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,NH2-RGEFV-F(Phenylalanine)-βA,NH2,βA,F,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,NH2-RGEFV-W(Tryptophan)-βA,NH2,βA,W,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,NH2-RGEFV-M(Methionine)-βA,NH2,βA,M,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,NH2-RGEFV-S(Serine)-βA,NH2,βA,S,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,NH2-RGEFV-T(Threonine)-βA,NH2,βA,T,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,NH2-RGEFV-N(Asparagine)-βA,NH2,βA,N,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,NH2-RGEFV-Q(Glutamine)-βA,NH2,βA,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,NH2-RGEFV-D(Aspartate)-βA,NH2,βA,D,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,NH2-RGEFV-E(Glutamate)-βA,NH2,βA,E,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,NH2-RGEFV-K(Lysine)-βA,NH2,βA,K,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,NH2-RGEFV-R(Arginine)-βA,NH2,βA,R,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,NH2-RGEFV-H(Histidine)-βA,NH2,βA,H,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,NH2-RGEFV-Y(Tyrosine)-βA,NH2,βA,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,Ac-RGEFV-G(Glycine)-COOH,Ac,COOH,G,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,Ac-RGEFV-A(Alanine)-COOH,Ac,COOH,A,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,Ac-RGEFV-V(Valine)-COOH,Ac,COOH,V,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,Ac-RGEFV-L(Leucine)-COOH,Ac,COOH,L,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,Ac-RGEFV-I(Isoleucine)-COOH,Ac,COOH,I,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,Ac-RGEFV-P(Proline)-COOH,Ac,COOH,P,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,Ac-RGEFV-F(Phenylalanine)-COOH,Ac,COOH,F,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,Ac-RGEFV-W(Tryptophan)-COOH,Ac,COOH,W,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,Ac-RGEFV-M(Methionine)-COOH,Ac,COOH,M,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,Ac-RGEFV-S(Serine)-COOH,Ac,COOH,S,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,Ac-RGEFV-T(Threonine)-COOH,Ac,COOH,T,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,Ac-RGEFV-N(Asparagine)-COOH,Ac,COOH,N,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,Ac-RGEFV-Q(Glutamine)-COOH,Ac,COOH,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,Ac-RGEFV-D(Aspartate)-COOH,Ac,COOH,D,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,Ac-RGEFV-E(Glutamate)-COOH,Ac,COOH,E,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,Ac-RGEFV-K(Lysine)-COOH,Ac,COOH,K,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,Ac-RGEFV-R(Arginine)-COOH,Ac,COOH,R,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,Ac-RGEFV-H(Histidine)-COOH,Ac,COOH,H,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,Ac-RGEFV-Y(Tyrosine)-COOH,Ac,COOH,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,Ac-RGEFV-G(Glycine)-amide,Ac,amide,G,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,Ac-RGEFV-A(Alanine)-amide,Ac,amide,A,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,Ac-RGEFV-V(Valine)-amide,Ac,amide,V,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,Ac-RGEFV-L(Leucine)-amide,Ac,amide,L,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,Ac-RGEFV-I(Isoleucine)-amide,Ac,amide,I,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,Ac-RGEFV-P(Proline)-amide,Ac,amide,P,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,Ac-RGEFV-F(Phenylalanine)-amide,Ac,amide,F,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,Ac-RGEFV-W(Tryptophan)-amide,Ac,amide,W,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,Ac-RGEFV-M(Methionine)-amide,Ac,amide,M,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,Ac-RGEFV-S(Serine)-amide,Ac,amide,S,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,Ac-RGEFV-T(Threonine)-amide,Ac,amide,T,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,Ac-RGEFV-N(Asparagine)-amide,Ac,amide,N,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,Ac-RGEFV-Q(Glutamine)-amide,Ac,amide,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,Ac-RGEFV-D(Aspartate)-amide,Ac,amide,D,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,Ac-RGEFV-E(Glutamate)-amide,Ac,amide,E,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,Ac-RGEFV-K(Lysine)-amide,Ac,amide,K,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,Ac-RGEFV-R(Arginine)-amide,Ac,amide,R,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,Ac-RGEFV-H(Histidine)-amide,Ac,amide,H,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,Ac-RGEFV-Y(Tyrosine)-amide,Ac,amide,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,Ac-RGEFV-G(Glycine)-βA,Ac,βA,G,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,Ac-RGEFV-A(Alanine)-βA,Ac,βA,A,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,Ac-RGEFV-V(Valine)-βA,Ac,βA,V,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,Ac-RGEFV-L(Leucine)-βA,Ac,βA,L,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,Ac-RGEFV-I(Isoleucine)-βA,Ac,βA,I,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,Ac-RGEFV-P(Proline)-βA,Ac,βA,P,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,Ac-RGEFV-F(Phenylalanine)-βA,Ac,βA,F,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,Ac-RGEFV-W(Tryptophan)-βA,Ac,βA,W,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,Ac-RGEFV-M(Methionine)-βA,Ac,βA,M,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,Ac-RGEFV-S(Serine)-βA,Ac,βA,S,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,Ac-RGEFV-T(Threonine)-βA,Ac,βA,T,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,Ac-RGEFV-N(Asparagine)-βA,Ac,βA,N,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,Ac-RGEFV-Q(Glutamine)-βA,Ac,βA,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,Ac-RGEFV-D(Aspartate)-βA,Ac,βA,D,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,Ac-RGEFV-E(Glutamate)-βA,Ac,βA,E,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,Ac-RGEFV-K(Lysine)-βA,Ac,βA,K,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,Ac-RGEFV-R(Arginine)-βA,Ac,βA,R,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,Ac-RGEFV-H(Histidine)-βA,Ac,βA,H,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,Ac-RGEFV-Y(Tyrosine)-βA,Ac,βA,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,NH2-βA-RGEFV-G(Glycine)-COOH,NH2-βA,COOH,G,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,NH2-βA-RGEFV-A(Alanine)-COOH,NH2-βA,COOH,A,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,NH2-βA-RGEFV-V(Valine)-COOH,NH2-βA,COOH,V,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,NH2-βA-RGEFV-L(Leucine)-COOH,NH2-βA,COOH,L,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,NH2-βA-RGEFV-I(Isoleucine)-COOH,NH2-βA,COOH,I,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,NH2-βA-RGEFV-P(Proline)-COOH,NH2-βA,COOH,P,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,NH2-βA-RGEFV-F(Phenylalanine)-COOH,NH2-βA,COOH,F,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,NH2-βA-RGEFV-W(Tryptophan)-COOH,NH2-βA,COOH,W,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,NH2-βA-RGEFV-M(Methionine)-COOH,NH2-βA,COOH,M,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,NH2-βA-RGEFV-S(Serine)-COOH,NH2-βA,COOH,S,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,NH2-βA-RGEFV-T(Threonine)-COOH,NH2-βA,COOH,T,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,NH2-βA-RGEFV-N(Asparagine)-COOH,NH2-βA,COOH,N,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,NH2-βA-RGEFV-Q(Glutamine)-COOH,NH2-βA,COOH,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,NH2-βA-RGEFV-D(Aspartate)-COOH,NH2-βA,COOH,D,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,NH2-βA-RGEFV-E(Glutamate)-COOH,NH2-βA,COOH,E,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,NH2-βA-RGEFV-K(Lysine)-COOH,NH2-βA,COOH,K,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,NH2-βA-RGEFV-R(Arginine)-COOH,NH2-βA,COOH,R,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,NH2-βA-RGEFV-H(Histidine)-COOH,NH2-βA,COOH,H,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,NH2-βA-RGEFV-Y(Tyrosine)-COOH,NH2-βA,COOH,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,NH2-βA-RGEFV-G(Glycine)-amide,NH2-βA,amide,G,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,NH2-βA-RGEFV-A(Alanine)-amide,NH2-βA,amide,A,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,NH2-βA-RGEFV-V(Valine)-amide,NH2-βA,amide,V,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,NH2-βA-RGEFV-L(Leucine)-amide,NH2-βA,amide,L,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,NH2-βA-RGEFV-I(Isoleucine)-amide,NH2-βA,amide,I,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,NH2-βA-RGEFV-P(Proline)-amide,NH2-βA,amide,P,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,NH2-βA-RGEFV-F(Phenylalanine)-amide,NH2-βA,amide,F,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,NH2-βA-RGEFV-W(Tryptophan)-amide,NH2-βA,amide,W,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,NH2-βA-RGEFV-M(Methionine)-amide,NH2-βA,amide,M,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,NH2-βA-RGEFV-S(Serine)-amide,NH2-βA,amide,S,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,NH2-βA-RGEFV-T(Threonine)-amide,NH2-βA,amide,T,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,NH2-βA-RGEFV-N(Asparagine)-amide,NH2-βA,amide,N,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,NH2-βA-RGEFV-Q(Glutamine)-amide,NH2-βA,amide,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,NH2-βA-RGEFV-D(Aspartate)-amide,NH2-βA,amide,D,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,NH2-βA-RGEFV-E(Glutamate)-amide,NH2-βA,amide,E,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,NH2-βA-RGEFV-K(Lysine)-amide,NH2-βA,amide,K,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,NH2-βA-RGEFV-R(Arginine)-amide,NH2-βA,amide,R,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,NH2-βA-RGEFV-H(Histidine)-amide,NH2-βA,amide,H,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,NH2-βA-RGEFV-Y(Tyrosine)-amide,NH2-βA,amide,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,NH2-βA-RGEFV-G(Glycine)-βA,NH2-βA,βA,G,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,NH2-βA-RGEFV-A(Alanine)-βA,NH2-βA,βA,A,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,NH2-βA-RGEFV-V(Valine)-βA,NH2-βA,βA,V,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,NH2-βA-RGEFV-L(Leucine)-βA,NH2-βA,βA,L,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,NH2-βA-RGEFV-I(Isoleucine)-βA,NH2-βA,βA,I,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,NH2-βA-RGEFV-P(Proline)-βA,NH2-βA,βA,P,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,NH2-βA-RGEFV-F(Phenylalanine)-βA,NH2-βA,βA,F,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,NH2-βA-RGEFV-W(Tryptophan)-βA,NH2-βA,βA,W,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,NH2-βA-RGEFV-M(Methionine)-βA,NH2-βA,βA,M,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,NH2-βA-RGEFV-S(Serine)-βA,NH2-βA,βA,S,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,NH2-βA-RGEFV-T(Threonine)-βA,NH2-βA,βA,T,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,NH2-βA-RGEFV-N(Asparagine)-βA,NH2-βA,βA,N,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,NH2-βA-RGEFV-Q(Glutamine)-βA,NH2-βA,βA,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,NH2-βA-RGEFV-D(Aspartate)-βA,NH2-βA,βA,D,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,NH2-βA-RGEFV-E(Glutamate)-βA,NH2-βA,βA,E,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,NH2-βA-RGEFV-K(Lysine)-βA,NH2-βA,βA,K,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,NH2-βA-RGEFV-R(Arginine)-βA,NH2-βA,βA,R,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,NH2-βA-RGEFV-H(Histidine)-βA,NH2-βA,βA,H,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,NH2-βA-RGEFV-Y(Tyrosine)-βA,NH2-βA,βA,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),NH2-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,Ac-βA-RGEFV-G(Glycine)-COOH,Ac-βA,COOH,G,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,Ac-βA-RGEFV-A(Alanine)-COOH,Ac-βA,COOH,A,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,Ac-βA-RGEFV-V(Valine)-COOH,Ac-βA,COOH,V,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,Ac-βA-RGEFV-L(Leucine)-COOH,Ac-βA,COOH,L,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,Ac-βA-RGEFV-I(Isoleucine)-COOH,Ac-βA,COOH,I,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,Ac-βA-RGEFV-P(Proline)-COOH,Ac-βA,COOH,P,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,Ac-βA-RGEFV-F(Phenylalanine)-COOH,Ac-βA,COOH,F,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,Ac-βA-RGEFV-W(Tryptophan)-COOH,Ac-βA,COOH,W,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,Ac-βA-RGEFV-M(Methionine)-COOH,Ac-βA,COOH,M,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,Ac-βA-RGEFV-S(Serine)-COOH,Ac-βA,COOH,S,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,Ac-βA-RGEFV-T(Threonine)-COOH,Ac-βA,COOH,T,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,Ac-βA-RGEFV-N(Asparagine)-COOH,Ac-βA,COOH,N,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,Ac-βA-RGEFV-Q(Glutamine)-COOH,Ac-βA,COOH,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,Ac-βA-RGEFV-D(Aspartate)-COOH,Ac-βA,COOH,D,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,Ac-βA-RGEFV-E(Glutamate)-COOH,Ac-βA,COOH,E,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,Ac-βA-RGEFV-K(Lysine)-COOH,Ac-βA,COOH,K,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,Ac-βA-RGEFV-R(Arginine)-COOH,Ac-βA,COOH,R,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,Ac-βA-RGEFV-H(Histidine)-COOH,Ac-βA,COOH,H,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,Ac-βA-RGEFV-Y(Tyrosine)-COOH,Ac-βA,COOH,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-COOH,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,Ac-βA-RGEFV-G(Glycine)-amide,Ac-βA,amide,G,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,Ac-βA-RGEFV-A(Alanine)-amide,Ac-βA,amide,A,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,Ac-βA-RGEFV-V(Valine)-amide,Ac-βA,amide,V,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,Ac-βA-RGEFV-L(Leucine)-amide,Ac-βA,amide,L,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,Ac-βA-RGEFV-I(Isoleucine)-amide,Ac-βA,amide,I,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,Ac-βA-RGEFV-P(Proline)-amide,Ac-βA,amide,P,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,Ac-βA-RGEFV-F(Phenylalanine)-amide,Ac-βA,amide,F,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,Ac-βA-RGEFV-W(Tryptophan)-amide,Ac-βA,amide,W,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,Ac-βA-RGEFV-M(Methionine)-amide,Ac-βA,amide,M,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,Ac-βA-RGEFV-S(Serine)-amide,Ac-βA,amide,S,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,Ac-βA-RGEFV-T(Threonine)-amide,Ac-βA,amide,T,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,Ac-βA-RGEFV-N(Asparagine)-amide,Ac-βA,amide,N,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,Ac-βA-RGEFV-Q(Glutamine)-amide,Ac-βA,amide,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,Ac-βA-RGEFV-D(Aspartate)-amide,Ac-βA,amide,D,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,Ac-βA-RGEFV-E(Glutamate)-amide,Ac-βA,amide,E,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,Ac-βA-RGEFV-K(Lysine)-amide,Ac-βA,amide,K,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,Ac-βA-RGEFV-R(Arginine)-amide,Ac-βA,amide,R,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,Ac-βA-RGEFV-H(Histidine)-amide,Ac-βA,amide,H,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,Ac-βA-RGEFV-Y(Tyrosine)-amide,Ac-βA,amide,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-amide,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVG,Ac-βA-RGEFV-G(Glycine)-βA,Ac-βA,βA,G,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVA,Ac-βA-RGEFV-A(Alanine)-βA,Ac-βA,βA,A,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVV,Ac-βA-RGEFV-V(Valine)-βA,Ac-βA,βA,V,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVL,Ac-βA-RGEFV-L(Leucine)-βA,Ac-βA,βA,L,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVI,Ac-βA-RGEFV-I(Isoleucine)-βA,Ac-βA,βA,I,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVP,Ac-βA-RGEFV-P(Proline)-βA,Ac-βA,βA,P,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVF,Ac-βA-RGEFV-F(Phenylalanine)-βA,Ac-βA,βA,F,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVW,Ac-βA-RGEFV-W(Tryptophan)-βA,Ac-βA,βA,W,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVM,Ac-βA-RGEFV-M(Methionine)-βA,Ac-βA,βA,M,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVS,Ac-βA-RGEFV-S(Serine)-βA,Ac-βA,βA,S,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVT,Ac-βA-RGEFV-T(Threonine)-βA,Ac-βA,βA,T,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVN,Ac-βA-RGEFV-N(Asparagine)-βA,Ac-βA,βA,N,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVQ,Ac-βA-RGEFV-Q(Glutamine)-βA,Ac-βA,βA,Q,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVD,Ac-βA-RGEFV-D(Aspartate)-βA,Ac-βA,βA,D,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVE,Ac-βA-RGEFV-E(Glutamate)-βA,Ac-βA,βA,E,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVK,Ac-βA-RGEFV-K(Lysine)-βA,Ac-βA,βA,K,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVR,Ac-βA-RGEFV-R(Arginine)-βA,Ac-βA,βA,R,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVH,Ac-βA-RGEFV-H(Histidine)-βA,Ac-βA,βA,H,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+RGEFVY,Ac-βA-RGEFV-Y(Tyrosine)-βA,Ac-βA,βA,Y,RGEFV-X,Paper 1 (ACS Biomater 2024),Ac-βA-RGEFV-X-βA,Cell adhesion (RGD analog),7 of 12 N/C-term combos were tested; all 12 reconstructed here
+GRGDS,NH2-GRGDS,NH2,,,GRGDS,Paper 1 (ACS Biomater 2024),Additional bioactive,Linear RGD (unprotected N-term),Named bioactive sequence tested alongside libraries
+GRGDS,Ac-βA-GRGDS,Ac,,,GRGDS,Paper 1 (ACS Biomater 2024),Additional bioactive,Linear RGD (protected N-term),Named bioactive sequence tested alongside libraries
+GRGDSK,cyclo-GRGDSK(N3),cyclo,,,GRGDSK,Paper 1 (ACS Biomater 2024),Additional bioactive,Cyclic RGD,Named bioactive sequence tested alongside libraries
+IVKVA,NH2-IVKVA,NH2,,,IVKVA,Paper 1 (ACS Biomater 2024),Additional bioactive,Laminin-mimetic (IKVAV analog),Named bioactive sequence tested alongside libraries
+LIAANK,NH2-LIAANK,NH2,,,LIAANK,Paper 1 (ACS Biomater 2024),Additional bioactive,TGF-beta mimetic (LIANAK analog),Named bioactive sequence tested alongside libraries
+KGPQGIWGQKK,N3-KGPQGIWGQ-KK(N3),N3,,,KGPQGIWGQKK,Paper 1 (ACS Biomater 2024),Additional bioactive,PanMMP crosslinker,Named bioactive sequence tested alongside libraries
+GRGEFV,Ac-βA-G(Glycine)-RGEFV-βA,Ac-βA,βA,G,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+ARGEFV,Ac-βA-A(Alanine)-RGEFV-βA,Ac-βA,βA,A,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+VRGEFV,Ac-βA-V(Valine)-RGEFV-βA,Ac-βA,βA,V,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+LRGEFV,Ac-βA-L(Leucine)-RGEFV-βA,Ac-βA,βA,L,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+IRGEFV,Ac-βA-I(Isoleucine)-RGEFV-βA,Ac-βA,βA,I,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+PRGEFV,Ac-βA-P(Proline)-RGEFV-βA,Ac-βA,βA,P,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+FRGEFV,Ac-βA-F(Phenylalanine)-RGEFV-βA,Ac-βA,βA,F,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+WRGEFV,Ac-βA-W(Tryptophan)-RGEFV-βA,Ac-βA,βA,W,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+MRGEFV,Ac-βA-M(Methionine)-RGEFV-βA,Ac-βA,βA,M,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+SRGEFV,Ac-βA-S(Serine)-RGEFV-βA,Ac-βA,βA,S,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+TRGEFV,Ac-βA-T(Threonine)-RGEFV-βA,Ac-βA,βA,T,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+NRGEFV,Ac-βA-N(Asparagine)-RGEFV-βA,Ac-βA,βA,N,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+QRGEFV,Ac-βA-Q(Glutamine)-RGEFV-βA,Ac-βA,βA,Q,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+DRGEFV,Ac-βA-D(Aspartate)-RGEFV-βA,Ac-βA,βA,D,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+ERGEFV,Ac-βA-E(Glutamate)-RGEFV-βA,Ac-βA,βA,E,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+KRGEFV,Ac-βA-K(Lysine)-RGEFV-βA,Ac-βA,βA,K,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+RRGEFV,Ac-βA-R(Arginine)-RGEFV-βA,Ac-βA,βA,R,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+HRGEFV,Ac-βA-H(Histidine)-RGEFV-βA,Ac-βA,βA,H,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+YRGEFV,Ac-βA-Y(Tyrosine)-RGEFV-βA,Ac-βA,βA,Y,X-RGEFV,Paper 2 (JBMR-A 2025),Ac-βA-X-RGEFV-βA,N-terminal variable (assay optimization),Reverse orientation — tests N-terminal exopeptidase susceptibility
+βA-βA-βA-βA-βA-βA,NH2-βF-(βA)6-amide,NH2-βF,amide,,beta-amino acid polymer,Paper 2 (JBMR-A 2025),Internal standards,Internal standard (selected),Non-natural beta-amino acid — resistant to proteolytic degradation
+KLVADGGASAE,KLVAD-GG-ASAE,,,GG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=G
+KLVADGAASAE,KLVAD-GA-ASAE,,,GA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=A
+KLVADGVASAE,KLVAD-GV-ASAE,,,GV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=V
+KLVADGLASAE,KLVAD-GL-ASAE,,,GL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=L
+KLVADGIASAE,KLVAD-GI-ASAE,,,GI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=I
+KLVADGPASAE,KLVAD-GP-ASAE,,,GP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=P
+KLVADGFASAE,KLVAD-GF-ASAE,,,GF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=F
+KLVADGWASAE,KLVAD-GW-ASAE,,,GW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=W
+KLVADGMASAE,KLVAD-GM-ASAE,,,GM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=M
+KLVADGSASAE,KLVAD-GS-ASAE,,,GS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=S
+KLVADGTASAE,KLVAD-GT-ASAE,,,GT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=T
+KLVADGNASAE,KLVAD-GN-ASAE,,,GN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=N
+KLVADGQASAE,KLVAD-GQ-ASAE,,,GQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=Q
+KLVADGDASAE,KLVAD-GD-ASAE,,,GD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=D
+KLVADGEASAE,KLVAD-GE-ASAE,,,GE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=E
+KLVADGKASAE,KLVAD-GK-ASAE,,,GK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=K
+KLVADGRASAE,KLVAD-GR-ASAE,,,GR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=R
+KLVADGHASAE,KLVAD-GH-ASAE,,,GH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=H
+KLVADGYASAE,KLVAD-GY-ASAE,,,GY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=G X2=Y
+KLVADAGASAE,KLVAD-AG-ASAE,,,AG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=G
+KLVADAAASAE,KLVAD-AA-ASAE,,,AA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=A
+KLVADAVASAE,KLVAD-AV-ASAE,,,AV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=V
+KLVADALASAE,KLVAD-AL-ASAE,,,AL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=L
+KLVADAIASAE,KLVAD-AI-ASAE,,,AI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=I
+KLVADAPASAE,KLVAD-AP-ASAE,,,AP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=P
+KLVADAFASAE,KLVAD-AF-ASAE,,,AF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=F
+KLVADAWASAE,KLVAD-AW-ASAE,,,AW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=W
+KLVADAMASAE,KLVAD-AM-ASAE,,,AM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=M
+KLVADASASAE,KLVAD-AS-ASAE,,,AS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=S
+KLVADATASAE,KLVAD-AT-ASAE,,,AT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=T
+KLVADANASAE,KLVAD-AN-ASAE,,,AN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=N
+KLVADAQASAE,KLVAD-AQ-ASAE,,,AQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=Q
+KLVADADASAE,KLVAD-AD-ASAE,,,AD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=D
+KLVADAEASAE,KLVAD-AE-ASAE,,,AE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=E
+KLVADAKASAE,KLVAD-AK-ASAE,,,AK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=K
+KLVADARASAE,KLVAD-AR-ASAE,,,AR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=R
+KLVADAHASAE,KLVAD-AH-ASAE,,,AH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=H
+KLVADAYASAE,KLVAD-AY-ASAE,,,AY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=A X2=Y
+KLVADVGASAE,KLVAD-VG-ASAE,,,VG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=G
+KLVADVAASAE,KLVAD-VA-ASAE,,,VA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=A
+KLVADVVASAE,KLVAD-VV-ASAE,,,VV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=V
+KLVADVLASAE,KLVAD-VL-ASAE,,,VL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=L
+KLVADVIASAE,KLVAD-VI-ASAE,,,VI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=I
+KLVADVPASAE,KLVAD-VP-ASAE,,,VP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=P
+KLVADVFASAE,KLVAD-VF-ASAE,,,VF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=F
+KLVADVWASAE,KLVAD-VW-ASAE,,,VW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=W
+KLVADVMASAE,KLVAD-VM-ASAE,,,VM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=M
+KLVADVSASAE,KLVAD-VS-ASAE,,,VS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=S
+KLVADVTASAE,KLVAD-VT-ASAE,,,VT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=T
+KLVADVNASAE,KLVAD-VN-ASAE,,,VN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=N
+KLVADVQASAE,KLVAD-VQ-ASAE,,,VQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=Q
+KLVADVDASAE,KLVAD-VD-ASAE,,,VD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=D
+KLVADVEASAE,KLVAD-VE-ASAE,,,VE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=E
+KLVADVKASAE,KLVAD-VK-ASAE,,,VK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=K
+KLVADVRASAE,KLVAD-VR-ASAE,,,VR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=R
+KLVADVHASAE,KLVAD-VH-ASAE,,,VH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=H
+KLVADVYASAE,KLVAD-VY-ASAE,,,VY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=V X2=Y
+KLVADLGASAE,KLVAD-LG-ASAE,,,LG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=G
+KLVADLAASAE,KLVAD-LA-ASAE,,,LA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=A
+KLVADLVASAE,KLVAD-LV-ASAE,,,LV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=V
+KLVADLLASAE,KLVAD-LL-ASAE,,,LL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=L
+KLVADLIASAE,KLVAD-LI-ASAE,,,LI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=I
+KLVADLPASAE,KLVAD-LP-ASAE,,,LP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=P
+KLVADLFASAE,KLVAD-LF-ASAE,,,LF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=F
+KLVADLWASAE,KLVAD-LW-ASAE,,,LW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=W
+KLVADLMASAE,KLVAD-LM-ASAE,,,LM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=M
+KLVADLSASAE,KLVAD-LS-ASAE,,,LS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=S
+KLVADLTASAE,KLVAD-LT-ASAE,,,LT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=T
+KLVADLNASAE,KLVAD-LN-ASAE,,,LN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=N
+KLVADLQASAE,KLVAD-LQ-ASAE,,,LQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=Q
+KLVADLDASAE,KLVAD-LD-ASAE,,,LD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=D
+KLVADLEASAE,KLVAD-LE-ASAE,,,LE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=E
+KLVADLKASAE,KLVAD-LK-ASAE,,,LK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=K
+KLVADLRASAE,KLVAD-LR-ASAE,,,LR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=R
+KLVADLHASAE,KLVAD-LH-ASAE,,,LH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=H
+KLVADLYASAE,KLVAD-LY-ASAE,,,LY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=L X2=Y
+KLVADIGASAE,KLVAD-IG-ASAE,,,IG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=G
+KLVADIAASAE,KLVAD-IA-ASAE,,,IA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=A
+KLVADIVASAE,KLVAD-IV-ASAE,,,IV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=V
+KLVADILASAE,KLVAD-IL-ASAE,,,IL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=L
+KLVADIIASAE,KLVAD-II-ASAE,,,II,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=I
+KLVADIPASAE,KLVAD-IP-ASAE,,,IP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=P
+KLVADIFASAE,KLVAD-IF-ASAE,,,IF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=F
+KLVADIWASAE,KLVAD-IW-ASAE,,,IW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=W
+KLVADIMASAE,KLVAD-IM-ASAE,,,IM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=M
+KLVADISASAE,KLVAD-IS-ASAE,,,IS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=S
+KLVADITASAE,KLVAD-IT-ASAE,,,IT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=T
+KLVADINASAE,KLVAD-IN-ASAE,,,IN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=N
+KLVADIQASAE,KLVAD-IQ-ASAE,,,IQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=Q
+KLVADIDASAE,KLVAD-ID-ASAE,,,ID,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=D
+KLVADIEASAE,KLVAD-IE-ASAE,,,IE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=E
+KLVADIKASAE,KLVAD-IK-ASAE,,,IK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=K
+KLVADIRASAE,KLVAD-IR-ASAE,,,IR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=R
+KLVADIHASAE,KLVAD-IH-ASAE,,,IH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=H
+KLVADIYASAE,KLVAD-IY-ASAE,,,IY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=I X2=Y
+KLVADPGASAE,KLVAD-PG-ASAE,,,PG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=G
+KLVADPAASAE,KLVAD-PA-ASAE,,,PA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=A
+KLVADPVASAE,KLVAD-PV-ASAE,,,PV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=V
+KLVADPLASAE,KLVAD-PL-ASAE,,,PL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=L
+KLVADPIASAE,KLVAD-PI-ASAE,,,PI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=I
+KLVADPPASAE,KLVAD-PP-ASAE,,,PP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=P
+KLVADPFASAE,KLVAD-PF-ASAE,,,PF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=F
+KLVADPWASAE,KLVAD-PW-ASAE,,,PW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=W
+KLVADPMASAE,KLVAD-PM-ASAE,,,PM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=M
+KLVADPSASAE,KLVAD-PS-ASAE,,,PS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=S
+KLVADPTASAE,KLVAD-PT-ASAE,,,PT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=T
+KLVADPNASAE,KLVAD-PN-ASAE,,,PN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=N
+KLVADPQASAE,KLVAD-PQ-ASAE,,,PQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=Q
+KLVADPDASAE,KLVAD-PD-ASAE,,,PD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=D
+KLVADPEASAE,KLVAD-PE-ASAE,,,PE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=E
+KLVADPKASAE,KLVAD-PK-ASAE,,,PK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=K
+KLVADPRASAE,KLVAD-PR-ASAE,,,PR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=R
+KLVADPHASAE,KLVAD-PH-ASAE,,,PH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=H
+KLVADPYASAE,KLVAD-PY-ASAE,,,PY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=P X2=Y
+KLVADFGASAE,KLVAD-FG-ASAE,,,FG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=G
+KLVADFAASAE,KLVAD-FA-ASAE,,,FA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=A
+KLVADFVASAE,KLVAD-FV-ASAE,,,FV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=V
+KLVADFLASAE,KLVAD-FL-ASAE,,,FL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=L
+KLVADFIASAE,KLVAD-FI-ASAE,,,FI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=I
+KLVADFPASAE,KLVAD-FP-ASAE,,,FP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=P
+KLVADFFASAE,KLVAD-FF-ASAE,,,FF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=F
+KLVADFWASAE,KLVAD-FW-ASAE,,,FW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=W
+KLVADFMASAE,KLVAD-FM-ASAE,,,FM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=M
+KLVADFSASAE,KLVAD-FS-ASAE,,,FS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=S
+KLVADFTASAE,KLVAD-FT-ASAE,,,FT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=T
+KLVADFNASAE,KLVAD-FN-ASAE,,,FN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=N
+KLVADFQASAE,KLVAD-FQ-ASAE,,,FQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=Q
+KLVADFDASAE,KLVAD-FD-ASAE,,,FD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=D
+KLVADFEASAE,KLVAD-FE-ASAE,,,FE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=E
+KLVADFKASAE,KLVAD-FK-ASAE,,,FK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=K
+KLVADFRASAE,KLVAD-FR-ASAE,,,FR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=R
+KLVADFHASAE,KLVAD-FH-ASAE,,,FH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=H
+KLVADFYASAE,KLVAD-FY-ASAE,,,FY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=F X2=Y
+KLVADWGASAE,KLVAD-WG-ASAE,,,WG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=G
+KLVADWAASAE,KLVAD-WA-ASAE,,,WA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=A
+KLVADWVASAE,KLVAD-WV-ASAE,,,WV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=V
+KLVADWLASAE,KLVAD-WL-ASAE,,,WL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=L
+KLVADWIASAE,KLVAD-WI-ASAE,,,WI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=I
+KLVADWPASAE,KLVAD-WP-ASAE,,,WP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=P
+KLVADWFASAE,KLVAD-WF-ASAE,,,WF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=F
+KLVADWWASAE,KLVAD-WW-ASAE,,,WW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=W
+KLVADWMASAE,KLVAD-WM-ASAE,,,WM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=M
+KLVADWSASAE,KLVAD-WS-ASAE,,,WS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=S
+KLVADWTASAE,KLVAD-WT-ASAE,,,WT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=T
+KLVADWNASAE,KLVAD-WN-ASAE,,,WN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=N
+KLVADWQASAE,KLVAD-WQ-ASAE,,,WQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=Q
+KLVADWDASAE,KLVAD-WD-ASAE,,,WD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=D
+KLVADWEASAE,KLVAD-WE-ASAE,,,WE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=E
+KLVADWKASAE,KLVAD-WK-ASAE,,,WK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=K
+KLVADWRASAE,KLVAD-WR-ASAE,,,WR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=R
+KLVADWHASAE,KLVAD-WH-ASAE,,,WH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=H
+KLVADWYASAE,KLVAD-WY-ASAE,,,WY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=W X2=Y
+KLVADMGASAE,KLVAD-MG-ASAE,,,MG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=G
+KLVADMAASAE,KLVAD-MA-ASAE,,,MA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=A
+KLVADMVASAE,KLVAD-MV-ASAE,,,MV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=V
+KLVADMLASAE,KLVAD-ML-ASAE,,,ML,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=L
+KLVADMIASAE,KLVAD-MI-ASAE,,,MI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=I
+KLVADMPASAE,KLVAD-MP-ASAE,,,MP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=P
+KLVADMFASAE,KLVAD-MF-ASAE,,,MF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=F
+KLVADMWASAE,KLVAD-MW-ASAE,,,MW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=W
+KLVADMMASAE,KLVAD-MM-ASAE,,,MM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=M
+KLVADMSASAE,KLVAD-MS-ASAE,,,MS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=S
+KLVADMTASAE,KLVAD-MT-ASAE,,,MT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=T
+KLVADMNASAE,KLVAD-MN-ASAE,,,MN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=N
+KLVADMQASAE,KLVAD-MQ-ASAE,,,MQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=Q
+KLVADMDASAE,KLVAD-MD-ASAE,,,MD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=D
+KLVADMEASAE,KLVAD-ME-ASAE,,,ME,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=E
+KLVADMKASAE,KLVAD-MK-ASAE,,,MK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=K
+KLVADMRASAE,KLVAD-MR-ASAE,,,MR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=R
+KLVADMHASAE,KLVAD-MH-ASAE,,,MH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=H
+KLVADMYASAE,KLVAD-MY-ASAE,,,MY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=M X2=Y
+KLVADSGASAE,KLVAD-SG-ASAE,,,SG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=G
+KLVADSAASAE,KLVAD-SA-ASAE,,,SA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=A
+KLVADSVASAE,KLVAD-SV-ASAE,,,SV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=V
+KLVADSLASAE,KLVAD-SL-ASAE,,,SL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=L
+KLVADSIASAE,KLVAD-SI-ASAE,,,SI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=I
+KLVADSPASAE,KLVAD-SP-ASAE,,,SP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=P
+KLVADSFASAE,KLVAD-SF-ASAE,,,SF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=F
+KLVADSWASAE,KLVAD-SW-ASAE,,,SW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=W
+KLVADSMASAE,KLVAD-SM-ASAE,,,SM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=M
+KLVADSSASAE,KLVAD-SS-ASAE,,,SS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=S
+KLVADSTASAE,KLVAD-ST-ASAE,,,ST,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=T
+KLVADSNASAE,KLVAD-SN-ASAE,,,SN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=N
+KLVADSQASAE,KLVAD-SQ-ASAE,,,SQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=Q
+KLVADSDASAE,KLVAD-SD-ASAE,,,SD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=D
+KLVADSEASAE,KLVAD-SE-ASAE,,,SE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=E
+KLVADSKASAE,KLVAD-SK-ASAE,,,SK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=K
+KLVADSRASAE,KLVAD-SR-ASAE,,,SR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=R
+KLVADSHASAE,KLVAD-SH-ASAE,,,SH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=H
+KLVADSYASAE,KLVAD-SY-ASAE,,,SY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=S X2=Y
+KLVADTGASAE,KLVAD-TG-ASAE,,,TG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=G
+KLVADTAASAE,KLVAD-TA-ASAE,,,TA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=A
+KLVADTVASAE,KLVAD-TV-ASAE,,,TV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=V
+KLVADTLASAE,KLVAD-TL-ASAE,,,TL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=L
+KLVADTIASAE,KLVAD-TI-ASAE,,,TI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=I
+KLVADTPASAE,KLVAD-TP-ASAE,,,TP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=P
+KLVADTFASAE,KLVAD-TF-ASAE,,,TF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=F
+KLVADTWASAE,KLVAD-TW-ASAE,,,TW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=W
+KLVADTMASAE,KLVAD-TM-ASAE,,,TM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=M
+KLVADTSASAE,KLVAD-TS-ASAE,,,TS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=S
+KLVADTTASAE,KLVAD-TT-ASAE,,,TT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=T
+KLVADTNASAE,KLVAD-TN-ASAE,,,TN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=N
+KLVADTQASAE,KLVAD-TQ-ASAE,,,TQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=Q
+KLVADTDASAE,KLVAD-TD-ASAE,,,TD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=D
+KLVADTEASAE,KLVAD-TE-ASAE,,,TE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=E
+KLVADTKASAE,KLVAD-TK-ASAE,,,TK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=K
+KLVADTRASAE,KLVAD-TR-ASAE,,,TR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=R
+KLVADTHASAE,KLVAD-TH-ASAE,,,TH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=H
+KLVADTYASAE,KLVAD-TY-ASAE,,,TY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=T X2=Y
+KLVADNGASAE,KLVAD-NG-ASAE,,,NG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=G
+KLVADNAASAE,KLVAD-NA-ASAE,,,NA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=A
+KLVADNVASAE,KLVAD-NV-ASAE,,,NV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=V
+KLVADNLASAE,KLVAD-NL-ASAE,,,NL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=L
+KLVADNIASAE,KLVAD-NI-ASAE,,,NI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=I
+KLVADNPASAE,KLVAD-NP-ASAE,,,NP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=P
+KLVADNFASAE,KLVAD-NF-ASAE,,,NF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=F
+KLVADNWASAE,KLVAD-NW-ASAE,,,NW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=W
+KLVADNMASAE,KLVAD-NM-ASAE,,,NM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=M
+KLVADNSASAE,KLVAD-NS-ASAE,,,NS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=S
+KLVADNTASAE,KLVAD-NT-ASAE,,,NT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=T
+KLVADNNASAE,KLVAD-NN-ASAE,,,NN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=N
+KLVADNQASAE,KLVAD-NQ-ASAE,,,NQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=Q
+KLVADNDASAE,KLVAD-ND-ASAE,,,ND,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=D
+KLVADNEASAE,KLVAD-NE-ASAE,,,NE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=E
+KLVADNKASAE,KLVAD-NK-ASAE,,,NK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=K
+KLVADNRASAE,KLVAD-NR-ASAE,,,NR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=R
+KLVADNHASAE,KLVAD-NH-ASAE,,,NH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=H
+KLVADNYASAE,KLVAD-NY-ASAE,,,NY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=N X2=Y
+KLVADQGASAE,KLVAD-QG-ASAE,,,QG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=G
+KLVADQAASAE,KLVAD-QA-ASAE,,,QA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=A
+KLVADQVASAE,KLVAD-QV-ASAE,,,QV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=V
+KLVADQLASAE,KLVAD-QL-ASAE,,,QL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=L
+KLVADQIASAE,KLVAD-QI-ASAE,,,QI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=I
+KLVADQPASAE,KLVAD-QP-ASAE,,,QP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=P
+KLVADQFASAE,KLVAD-QF-ASAE,,,QF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=F
+KLVADQWASAE,KLVAD-QW-ASAE,,,QW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=W
+KLVADQMASAE,KLVAD-QM-ASAE,,,QM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=M
+KLVADQSASAE,KLVAD-QS-ASAE,,,QS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=S
+KLVADQTASAE,KLVAD-QT-ASAE,,,QT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=T
+KLVADQNASAE,KLVAD-QN-ASAE,,,QN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=N
+KLVADQQASAE,KLVAD-QQ-ASAE,,,QQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=Q
+KLVADQDASAE,KLVAD-QD-ASAE,,,QD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=D
+KLVADQEASAE,KLVAD-QE-ASAE,,,QE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=E
+KLVADQKASAE,KLVAD-QK-ASAE,,,QK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=K
+KLVADQRASAE,KLVAD-QR-ASAE,,,QR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=R
+KLVADQHASAE,KLVAD-QH-ASAE,,,QH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=H
+KLVADQYASAE,KLVAD-QY-ASAE,,,QY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Q X2=Y
+KLVADDGASAE,KLVAD-DG-ASAE,,,DG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=G
+KLVADDAASAE,KLVAD-DA-ASAE,,,DA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=A
+KLVADDVASAE,KLVAD-DV-ASAE,,,DV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=V
+KLVADDLASAE,KLVAD-DL-ASAE,,,DL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=L
+KLVADDIASAE,KLVAD-DI-ASAE,,,DI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=I
+KLVADDPASAE,KLVAD-DP-ASAE,,,DP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=P
+KLVADDFASAE,KLVAD-DF-ASAE,,,DF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=F
+KLVADDWASAE,KLVAD-DW-ASAE,,,DW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=W
+KLVADDMASAE,KLVAD-DM-ASAE,,,DM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=M
+KLVADDSASAE,KLVAD-DS-ASAE,,,DS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=S
+KLVADDTASAE,KLVAD-DT-ASAE,,,DT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=T
+KLVADDNASAE,KLVAD-DN-ASAE,,,DN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=N
+KLVADDQASAE,KLVAD-DQ-ASAE,,,DQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=Q
+KLVADDDASAE,KLVAD-DD-ASAE,,,DD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=D
+KLVADDEASAE,KLVAD-DE-ASAE,,,DE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=E
+KLVADDKASAE,KLVAD-DK-ASAE,,,DK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=K
+KLVADDRASAE,KLVAD-DR-ASAE,,,DR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=R
+KLVADDHASAE,KLVAD-DH-ASAE,,,DH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=H
+KLVADDYASAE,KLVAD-DY-ASAE,,,DY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=D X2=Y
+KLVADEGASAE,KLVAD-EG-ASAE,,,EG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=G
+KLVADEAASAE,KLVAD-EA-ASAE,,,EA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=A
+KLVADEVASAE,KLVAD-EV-ASAE,,,EV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=V
+KLVADELASAE,KLVAD-EL-ASAE,,,EL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=L
+KLVADEIASAE,KLVAD-EI-ASAE,,,EI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=I
+KLVADEPASAE,KLVAD-EP-ASAE,,,EP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=P
+KLVADEFASAE,KLVAD-EF-ASAE,,,EF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=F
+KLVADEWASAE,KLVAD-EW-ASAE,,,EW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=W
+KLVADEMASAE,KLVAD-EM-ASAE,,,EM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=M
+KLVADESASAE,KLVAD-ES-ASAE,,,ES,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=S
+KLVADETASAE,KLVAD-ET-ASAE,,,ET,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=T
+KLVADENASAE,KLVAD-EN-ASAE,,,EN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=N
+KLVADEQASAE,KLVAD-EQ-ASAE,,,EQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=Q
+KLVADEDASAE,KLVAD-ED-ASAE,,,ED,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=D
+KLVADEEASAE,KLVAD-EE-ASAE,,,EE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=E
+KLVADEKASAE,KLVAD-EK-ASAE,,,EK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=K
+KLVADERASAE,KLVAD-ER-ASAE,,,ER,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=R
+KLVADEHASAE,KLVAD-EH-ASAE,,,EH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=H
+KLVADEYASAE,KLVAD-EY-ASAE,,,EY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=E X2=Y
+KLVADKGASAE,KLVAD-KG-ASAE,,,KG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=G
+KLVADKAASAE,KLVAD-KA-ASAE,,,KA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=A
+KLVADKVASAE,KLVAD-KV-ASAE,,,KV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=V
+KLVADKLASAE,KLVAD-KL-ASAE,,,KL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=L
+KLVADKIASAE,KLVAD-KI-ASAE,,,KI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=I
+KLVADKPASAE,KLVAD-KP-ASAE,,,KP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=P
+KLVADKFASAE,KLVAD-KF-ASAE,,,KF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=F
+KLVADKWASAE,KLVAD-KW-ASAE,,,KW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=W
+KLVADKMASAE,KLVAD-KM-ASAE,,,KM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=M
+KLVADKSASAE,KLVAD-KS-ASAE,,,KS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=S
+KLVADKTASAE,KLVAD-KT-ASAE,,,KT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=T
+KLVADKNASAE,KLVAD-KN-ASAE,,,KN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=N
+KLVADKQASAE,KLVAD-KQ-ASAE,,,KQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=Q
+KLVADKDASAE,KLVAD-KD-ASAE,,,KD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=D
+KLVADKEASAE,KLVAD-KE-ASAE,,,KE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=E
+KLVADKKASAE,KLVAD-KK-ASAE,,,KK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=K
+KLVADKRASAE,KLVAD-KR-ASAE,,,KR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=R
+KLVADKHASAE,KLVAD-KH-ASAE,,,KH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=H
+KLVADKYASAE,KLVAD-KY-ASAE,,,KY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=K X2=Y
+KLVADRGASAE,KLVAD-RG-ASAE,,,RG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=G
+KLVADRAASAE,KLVAD-RA-ASAE,,,RA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=A
+KLVADRVASAE,KLVAD-RV-ASAE,,,RV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=V
+KLVADRLASAE,KLVAD-RL-ASAE,,,RL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=L
+KLVADRIASAE,KLVAD-RI-ASAE,,,RI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=I
+KLVADRPASAE,KLVAD-RP-ASAE,,,RP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=P
+KLVADRFASAE,KLVAD-RF-ASAE,,,RF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=F
+KLVADRWASAE,KLVAD-RW-ASAE,,,RW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=W
+KLVADRMASAE,KLVAD-RM-ASAE,,,RM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=M
+KLVADRSASAE,KLVAD-RS-ASAE,,,RS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=S
+KLVADRTASAE,KLVAD-RT-ASAE,,,RT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=T
+KLVADRNASAE,KLVAD-RN-ASAE,,,RN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=N
+KLVADRQASAE,KLVAD-RQ-ASAE,,,RQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=Q
+KLVADRDASAE,KLVAD-RD-ASAE,,,RD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=D
+KLVADREASAE,KLVAD-RE-ASAE,,,RE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=E
+KLVADRKASAE,KLVAD-RK-ASAE,,,RK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=K
+KLVADRRASAE,KLVAD-RR-ASAE,,,RR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=R
+KLVADRHASAE,KLVAD-RH-ASAE,,,RH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=H
+KLVADRYASAE,KLVAD-RY-ASAE,,,RY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=R X2=Y
+KLVADHGASAE,KLVAD-HG-ASAE,,,HG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=G
+KLVADHAASAE,KLVAD-HA-ASAE,,,HA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=A
+KLVADHVASAE,KLVAD-HV-ASAE,,,HV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=V
+KLVADHLASAE,KLVAD-HL-ASAE,,,HL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=L
+KLVADHIASAE,KLVAD-HI-ASAE,,,HI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=I
+KLVADHPASAE,KLVAD-HP-ASAE,,,HP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=P
+KLVADHFASAE,KLVAD-HF-ASAE,,,HF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=F
+KLVADHWASAE,KLVAD-HW-ASAE,,,HW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=W
+KLVADHMASAE,KLVAD-HM-ASAE,,,HM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=M
+KLVADHSASAE,KLVAD-HS-ASAE,,,HS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=S
+KLVADHTASAE,KLVAD-HT-ASAE,,,HT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=T
+KLVADHNASAE,KLVAD-HN-ASAE,,,HN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=N
+KLVADHQASAE,KLVAD-HQ-ASAE,,,HQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=Q
+KLVADHDASAE,KLVAD-HD-ASAE,,,HD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=D
+KLVADHEASAE,KLVAD-HE-ASAE,,,HE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=E
+KLVADHKASAE,KLVAD-HK-ASAE,,,HK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=K
+KLVADHRASAE,KLVAD-HR-ASAE,,,HR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=R
+KLVADHHASAE,KLVAD-HH-ASAE,,,HH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=H
+KLVADHYASAE,KLVAD-HY-ASAE,,,HY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=H X2=Y
+KLVADYGASAE,KLVAD-YG-ASAE,,,YG,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=G
+KLVADYAASAE,KLVAD-YA-ASAE,,,YA,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=A
+KLVADYVASAE,KLVAD-YV-ASAE,,,YV,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=V
+KLVADYLASAE,KLVAD-YL-ASAE,,,YL,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=L
+KLVADYIASAE,KLVAD-YI-ASAE,,,YI,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=I
+KLVADYPASAE,KLVAD-YP-ASAE,,,YP,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=P
+KLVADYFASAE,KLVAD-YF-ASAE,,,YF,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=F
+KLVADYWASAE,KLVAD-YW-ASAE,,,YW,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=W
+KLVADYMASAE,KLVAD-YM-ASAE,,,YM,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=M
+KLVADYSASAE,KLVAD-YS-ASAE,,,YS,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=S
+KLVADYTASAE,KLVAD-YT-ASAE,,,YT,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=T
+KLVADYNASAE,KLVAD-YN-ASAE,,,YN,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=N
+KLVADYQASAE,KLVAD-YQ-ASAE,,,YQ,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=Q
+KLVADYDASAE,KLVAD-YD-ASAE,,,YD,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=D
+KLVADYEASAE,KLVAD-YE-ASAE,,,YE,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=E
+KLVADYKASAE,KLVAD-YK-ASAE,,,YK,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=K
+KLVADYRASAE,KLVAD-YR-ASAE,,,YR,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=R
+KLVADYHASAE,KLVAD-YH-ASAE,,,YH,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=H
+KLVADYYASAE,KLVAD-YY-ASAE,,,YY,KLVAD-XX-ASAE,Paper 3 (Adv Healthcare Mater 2025),Crosslinker split-and-pool,MMP-cleavable crosslinker,Position X1=Y X2=Y
+GPQGIWGQ,GPQGIWGQ,,,,GPQGIWGQ,Paper 3 (Adv Healthcare Mater 2025),Named sequences,PanMMP benchmark crosslinker,Individually characterized
+IVKTDIPDMV,IVKTDIPDMV,,,,IVKTDIPDMV,Paper 3 (Adv Healthcare Mater 2025),Named sequences,Proteomic candidate (membrane protease target),Individually characterized
+KKPMTIARLNAKK,KKPMTIARLNAKK,,,,KKPMTIARLNAKK,Paper 3 (Adv Healthcare Mater 2025),Named sequences,Proteomic candidate,Individually characterized
