@@ -1,0 +1,4 @@
+sequence,n_terminal_mod,c_terminal_mod,enzyme_ec,enzyme_name,enzyme_family,measurement_type,value,curve_values,curve_timepoints,conditions_ph,conditions_temp_c,conditions_matrix,source,confidence
+YGGFL,none,amide,3.4.14.5,DPP-IV,S09,kinetic_curve,,100.0;82.3;61.5;34.2;12.1;3.8,0;5;15;30;60;120,7.4,37,human_plasma,rozans,1.0
+DRVYIHPF,Ac,COOH,3.4.11.2,APN/CD13,M01,half_life,42.5,100.0;75.0;50.0;25.0;10.0,0;15;42;90;180,7.4,37,buffer_PBS,rozans,1.0
+RPKPQQFFGLM,none,none,unknown,human_serum_mix,unknown,kinetic_curve,,100.0;95.1;88.7;79.3;65.4;48.2;30.1;15.6;7.2,0;2;5;10;20;40;60;120;240,7.4,37,human_serum,rozans,1.0

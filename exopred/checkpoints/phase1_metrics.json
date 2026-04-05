@@ -1,0 +1,221 @@
+{
+  "test_metrics": {
+    "binary_acc": 0.9910714285714286,
+    "binary_f1": 0.9913205207687539,
+    "binary_auc": 0.9966559076252468,
+    "halflife_r2": -0.19001126289367676,
+    "halflife_rmse": 1.4979895788423605,
+    "halflife_mae": 1.112921118736267
+  },
+  "best_epoch": 9,
+  "best_val_loss": 0.10016621674273025,
+  "training_time_s": 23.431301593780518,
+  "num_epochs": 19,
+  "config": {
+    "batch_size": 64,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "max_epochs": 100,
+    "patience": 10,
+    "task_weights": {
+      "binary": 0.3,
+      "halflife": 0.7,
+      "curve": 0.0
+    },
+    "val_fraction": 0.1,
+    "test_fraction": 0.1,
+    "random_seed": 42
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_total": 0.09834522206829058,
+      "train_halflife": 1.5077855547269186,
+      "train_binary": 0.08794155105000787,
+      "val_total": 1.3501896391433008,
+      "val_binary": 0.04368831833824515,
+      "val_halflife": 25.805327117443085,
+      "lr": 0.001
+    },
+    {
+      "epoch": 2,
+      "train_total": 0.0793979899159422,
+      "train_halflife": 1.3233944674332936,
+      "train_binary": 0.05238474543757251,
+      "val_total": 0.14343020270354356,
+      "val_binary": 0.04039337672293186,
+      "val_halflife": 2.5497608482837677,
+      "lr": 0.001
+    },
+    {
+      "epoch": 3,
+      "train_total": 0.07720841525954526,
+      "train_halflife": 1.2921160896619162,
+      "train_binary": 0.05002483154091526,
+      "val_total": 0.43839744929465707,
+      "val_binary": 0.03896508821286261,
+      "val_halflife": 8.246066600084305,
+      "lr": 0.001
+    },
+    {
+      "epoch": 4,
+      "train_total": 0.07699759460842923,
+      "train_halflife": 1.292327739795049,
+      "train_binary": 0.04923212857342752,
+      "val_total": 1.3750425864019673,
+      "val_binary": 0.039625214114785194,
+      "val_halflife": 26.306402146816254,
+      "lr": 0.001
+    },
+    {
+      "epoch": 5,
+      "train_total": 0.07781664839126756,
+      "train_halflife": 1.3162822524706523,
+      "train_binary": 0.04796503743076263,
+      "val_total": 0.3062576673735209,
+      "val_binary": 0.04121859721839428,
+      "val_halflife": 5.6855838894844055,
+      "lr": 0.001
+    },
+    {
+      "epoch": 6,
+      "train_total": 0.07688689619910063,
+      "train_halflife": 1.2992879072825114,
+      "train_binary": 0.04761430710107135,
+      "val_total": 0.5159563018931765,
+      "val_binary": 0.04043228254653514,
+      "val_halflife": 9.733984738588333,
+      "lr": 0.001
+    },
+    {
+      "epoch": 7,
+      "train_total": 0.07605721542678474,
+      "train_halflife": 1.2835320790608724,
+      "train_binary": 0.04740494506183853,
+      "val_total": 1.8822332184904047,
+      "val_binary": 0.03979862586595118,
+      "val_halflife": 36.087004601955414,
+      "lr": 0.001
+    },
+    {
+      "epoch": 8,
+      "train_total": 0.07580223487959284,
+      "train_halflife": 1.2785271088282266,
+      "train_binary": 0.04736917215063328,
+      "val_total": 0.41531889617261997,
+      "val_binary": 0.03817825488746166,
+      "val_halflife": 7.805195599794388,
+      "lr": 0.0005
+    },
+    {
+      "epoch": 9,
+      "train_total": 0.07514636147043305,
+      "train_halflife": 1.2771216054757437,
+      "train_binary": 0.04526512672363741,
+      "val_total": 0.10016621674273025,
+      "val_binary": 0.03809959634207189,
+      "val_halflife": 1.7276720702648163,
+      "lr": 0.0005
+    },
+    {
+      "epoch": 10,
+      "train_total": 0.07390745540541903,
+      "train_halflife": 1.2574219504992168,
+      "train_binary": 0.04428101615527444,
+      "val_total": 0.28626490077779937,
+      "val_binary": 0.037808289378881456,
+      "val_halflife": 5.318278640508652,
+      "lr": 0.0005
+    },
+    {
+      "epoch": 11,
+      "train_total": 0.0748404407351916,
+      "train_halflife": 1.2752170443534852,
+      "train_binary": 0.04450285211403884,
+      "val_total": 1.5750249257263798,
+      "val_binary": 0.037594614047557116,
+      "val_halflife": 30.174081027507782,
+      "lr": 0.0005
+    },
+    {
+      "epoch": 12,
+      "train_total": 0.07372769385457933,
+      "train_halflife": 1.2553704718748728,
+      "train_binary": 0.04399666824041957,
+      "val_total": 2.722104202731754,
+      "val_binary": 0.03857372375205159,
+      "val_halflife": 52.291079580783844,
+      "lr": 0.0005
+    },
+    {
+      "epoch": 13,
+      "train_total": 0.07350264080297549,
+      "train_halflife": 1.2478558878103891,
+      "train_binary": 0.04450843340710254,
+      "val_total": 3.6695312434156357,
+      "val_binary": 0.040282850675284865,
+      "val_halflife": 70.55373340845108,
+      "lr": 0.0005
+    },
+    {
+      "epoch": 14,
+      "train_total": 0.07421691876066532,
+      "train_halflife": 1.2668083270390829,
+      "train_binary": 0.04374338788526567,
+      "val_total": 3.210721498965372,
+      "val_binary": 0.037237045262008904,
+      "val_halflife": 61.72157609462738,
+      "lr": 0.0005
+    },
+    {
+      "epoch": 15,
+      "train_total": 0.07351195099703872,
+      "train_halflife": 1.2581095755100251,
+      "train_binary": 0.04274290824194618,
+      "val_total": 3.5629764425404438,
+      "val_binary": 0.03878324050921947,
+      "val_halflife": 68.5067777633667,
+      "lr": 0.00025
+    },
+    {
+      "epoch": 16,
+      "train_total": 0.0725998950926511,
+      "train_halflife": 1.2394116004308064,
+      "train_binary": 0.04275448368465467,
+      "val_total": 2.293240872981389,
+      "val_binary": 0.03801022704690695,
+      "val_halflife": 44.023163080215454,
+      "lr": 0.00025
+    },
+    {
+      "epoch": 17,
+      "train_total": 0.07334299796529001,
+      "train_halflife": 1.2515482525030772,
+      "train_binary": 0.04328849571897067,
+      "val_total": 1.3265161963914849,
+      "val_binary": 0.037017752057872715,
+      "val_halflife": 25.38450327515602,
+      "lr": 0.00025
+    },
+    {
+      "epoch": 18,
+      "train_total": 0.07284180081117299,
+      "train_halflife": 1.2400282839934031,
+      "train_binary": 0.043513273996508735,
+      "val_total": 4.4894618462809985,
+      "val_binary": 0.03748935121111572,
+      "val_halflife": 86.38164174556732,
+      "lr": 0.00025
+    },
+    {
+      "epoch": 19,
+      "train_total": 0.07327609947700235,
+      "train_halflife": 1.258372167746226,
+      "train_binary": 0.04185155647944538,
+      "val_total": 2.89028382917685,
+      "val_binary": 0.03808192918542772,
+      "val_halflife": 55.53717792034149,
+      "lr": 0.00025
+    }
+  ]
+}

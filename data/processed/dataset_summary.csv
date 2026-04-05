@@ -1,0 +1,6 @@
+dataset,source,records,description,exopeptidase_relevant
+merops_exopeptidase_cleavages,MEROPS (merops.sanger.ac.uk),15883,Exopeptidase cleavage sites from MEROPS substrate search,True
+merops_all_cleavages_summary,MEROPS (merops.sanger.ac.uk),258,Summary statistics per protease family,True
+peplife2_combined,PEPlife2 (peplife2.iith.ac.in),4500,Peptide half-life data (natural + modified),True
+dppiv_benchmark,iDPPIV (Lin et al.),1330,"DPP-IV inhibitory peptide benchmark (train+test, binary labels)",True
+dppiv_chembl_ic50,ChEMBL (target CHEMBL284),4644,DPP-IV small-molecule IC50 values with pChEMBL scores,False

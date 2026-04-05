@@ -1,0 +1,44 @@
+{
+  "model_v2_baseline": {
+    "overall_r2": 0.9481970040282852,
+    "overall_rmse": 0.03647133052784806,
+    "fold_r2_mean": 0.9477535675754669,
+    "fold_r2_std": 0.09150176663411021,
+    "fold_r2_min": 0.7020281112895298,
+    "fold_r2_max": 0.9999043446579112,
+    "n_folds": 19
+  },
+  "model_v4_turk": {
+    "overall_r2": 0.9439640327845807,
+    "overall_rmse": 0.03793216271460639,
+    "fold_r2_mean": 0.9418973290250094,
+    "fold_r2_std": 0.09971167092193647,
+    "fold_r2_min": 0.649208829086793,
+    "fold_r2_max": 0.9994876678894477,
+    "n_folds": 19
+  },
+  "turk_delta_r2": -0.004232971243704475,
+  "bottger_external_validation": {
+    "spearman_r": 0.0,
+    "spearman_p": 1.0,
+    "pearson_r": 0.07105425317336755,
+    "pearson_p": 0.6588815647218272,
+    "n_samples": 41,
+    "n_peptides": 15,
+    "pred_range": [
+      0.0942967252698212,
+      0.32081315175154734
+    ],
+    "actual_range": [
+      0.0,
+      103.0
+    ]
+  },
+  "n_samples": 912,
+  "n_sequences": 19,
+  "n_features": {
+    "v2": 72,
+    "turk": 6,
+    "v4": 78
+  }
+}

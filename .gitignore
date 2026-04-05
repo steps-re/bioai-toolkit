@@ -1,0 +1,35 @@
+# Raw bulk datasets (too large for GitHub — download via process_datasets.py)
+data/merops/
+data/peplife/peplife2_all_structures.zip
+data/dppiv/bert-dppiv/
+data/dppiv/idppiv-benchmark/
+data/dppiv/Structural-DPP-IV/
+data/dppiv/mendeley/
+data/rozans_si/PMC*/
+data/rozans_si/*.pdf
+
+# Keep processed data, training data, and small files
+!data/processed/
+!data/training/
+!data/external_validation/
+!data/turk2015/
+!data/peplife/*.json
+!data/peplife/*.fasta
+!data/peplife/*.map
+!data/dppiv/chembl/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# Model checkpoints (binary, regenerable)
+exopred/checkpoints/*.pt
+
+# ESM-2 cache
+data/processed/esm2_embeddings.pkl
+
+# Jupyter
+.ipynb_checkpoints/

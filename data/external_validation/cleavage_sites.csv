@@ -1,0 +1,24 @@
+source,parent_peptide,metabolite_id,metabolite_sequence,cleavage_type,matrices_detected,calc_mass_Da,obs_mass_Da
+bottger2017,Api88,1-17,"gu-ONNRPVYIPRPRPPHPR-OH",C-term exopeptidase (thrombin-like at Arg17-Leu18),All,2177.2,2177.1
+bottger2017,Api88,1-16,"gu-ONNRPVYIPRPRPPHP-OH",further C-term trimming,CS,2021.1,2021.1
+bottger2017,Api134,7-18,"YIPRPRPPHPOL-NH2",N-term exopeptidase,CS,1454.8,1454.8
+bottger2017,Api134,8-18,"IPRPRPPHPOL-NH2",further N-term trimming,CS,1291.8,1291.8
+bottger2017,Api137,1-17,"gu-ONNRPVYIPRPRPPHPR-OH",C-term (Arg17-Leu18),VB;DS;CS,2177.2,2177.1
+bottger2017,Api137,1-16,"gu-ONNRPVYIPRPRPPHP-OH",further C-term,CS,2021.1,2021.1
+bottger2017,Onc18,1-18,VDKPPYLPRPRPPRRIYN-OH,C-term exopeptidase (removes Arg19),"B,DS,AS,CS",2233.1,2233.3
+bottger2017,Onc18,1-17,VDKPPYLPRPRPPRRIY-OH,consecutive C-term trimming,"B,DS,AS,CS",2119.2,1119.2
+bottger2017,Onc18,1-15,VDKPPYLPRPRPPRR-OH,endopeptidase at Arg14-Arg15,EP,1842.9,1843.1
+bottger2017,Onc18,1-14,VDKPPYLPRPRPPR-OH,endopeptidase at Arg14-Arg15,All,1687.0,1687.0
+bottger2017,Onc18,2-14,DKPPYLPRPRPPR-OH,N-term + endopeptidase,HP,1588.0,1587.9
+bottger2017,Onc72,1-18,VDKPPYLPRPRPPROIYN-OH,C-term exopeptidase,All,2191.2,2191.4
+bottger2017,Onc72,1-15,"VDKPPYLPRPRPPRO-OH",endopeptidase,"CS,HP,EP",1801.0,1800.9
+bottger2017,Onc72,1-14,VDKPPYLPRPRPPR-OH,endopeptidase,All,1687.0,1687.0
+bottger2017,AAYR-Onc112,3-23,"YRVDKPPYLPRPRPPRrIYNr-NH2",N-term exopeptidase (after Ala1-Ala2),All,2707.5,2707.5
+bottger2017,AAYR-Onc112,4-23,"RVDKPPYLPRPRPPRrIYNr-NH2",N-term exopeptidase (after Tyr3),All,2544.5,2544.6
+bottger2017,AAYR-Onc112,5-23_Onc112,"VDKPPYLPRPRPPRrIYNr-NH2",linker fully cleaved = Onc112 released,All,2388.4,2388.6
+bottger2017,LVPR-Onc112,4-23,"RVDKPPYLPRPRPPRrIYNr-NH2",thrombin cleavage at LVPR|R,All,2544.5,2544.4
+bottger2017,LVPR-Onc112,5-23_Onc112,"VDKPPYLPRPRPPRrIYNr-NH2",Onc112 released,All,2388.4,2388.3
+kohler2024,Peptide6_pNPY,NA,NA,after Pro5,human_plasma,NA,NA
+kohler2024,Peptide6_pNPY,NA,NA,after Pro2,human_plasma,NA,NA
+kohler2024,Peptide6_pNPY,NA,NA,after Pro8 (appears at 72h),human_plasma,NA,NA
+kohler2024,Peptide1_pNPY,NA,NA,"same sites as Peptide6; Tam label at K4 shields N-term",human_plasma,NA,NA

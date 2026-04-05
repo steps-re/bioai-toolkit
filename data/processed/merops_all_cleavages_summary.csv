@@ -1,0 +1,259 @@
+protease_family,protease_name_example,total_cleavages,organisms_count,is_exopeptidase
+S01,chymotrypsin A (cattle-type),39570,155,False
+C01,papain,12388,31,True
+M10,matrix metallopeptidase-1,8377,22,False
+A01,pepsin A,5454,43,False
+M12,astacin,4588,19,False
+M04,thermolysin,4252,38,False
+C14,caspase-1,3321,32,False
+C13,legumain (plant beta form),2330,25,False
+S08,subtilisin Carlsberg,2297,118,False
+M35,penicillolysin,2168,6,False
+M24,methionyl aminopeptidase 1 ({Escherichia}-type),1550,146,True
+A02,HIV-1 retropepsin,1382,31,False
+C02,calpain-1,917,14,False
+S26,signal peptidase I,828,232,False
+A32,RC1339 g.p. ({Rickettsia conorii}),800,2,False
+S41,C-terminal processing peptidase-1,740,10,False
+M09,collagenase V ({Vibrio} spp.),699,3,False
+M01,aminopeptidase N,503,11,True
+S09,prolyl oligopeptidase,410,14,True
+M03,thimet oligopeptidase,396,13,False
+M13,neprilysin,380,11,False
+M16,pitrilysin,371,25,False
+M14,carboxypeptidase A1,322,11,True
+T01,"archaean proteasome, beta component",311,9,False
+S10,carboxypeptidase Y,309,7,True
+M9,tripeptide aminopeptidase,267,10,False
+N10,intein-containing replicative DNA helicase precursor,259,93,False
+S53,sedolisin,241,5,False
+M28,aminopeptidase Y,227,7,True
+S9,peptidyl-glycinamidase,175,11,False
+C19,ubiquitin-specific peptidase 5,146,3,False
+U9,Glu-Glu dipeptidase,134,20,False
+C30,coronavirus picornain 3C-like peptidase-1,127,12,False
+C03,poliovirus-type picornain 3C,122,26,False
+C48,Ulp1 peptidase,110,6,False
+U74,neprosin,110,2,False
+G01,scytalidoglutamic peptidase,108,8,False
+M20,glutamate carboxypeptidase,100,1,False
+C25,gingipain RgpA,89,6,False
+A26,omptin,84,12,False
+S54,rhomboid-like protein 2,76,9,False
+S33,prolyl aminopeptidase,74,3,False
+M42,glutamyl aminopeptidase (bacterium),71,2,False
+M41,FtsH peptidase,62,7,False
+C04,nuclear-inclusion-a peptidase (plum pox virus),62,9,False
+M32,carboxypeptidase Taq,61,2,True
+M02,angiotensin-converting enzyme peptidase unit 1,60,4,False
+M17,leucyl aminopeptidase 3,57,2,True
+S50,infectious pancreatic necrosis birnavirus Vp4 peptidase,53,6,False
+C10,streptopain,53,6,False
+M23,beta-lytic metallopeptidase,49,6,False
+P01,DmpA aminopeptidase,49,3,False
+S12,D-Ala-D-Ala carboxypeptidase B,47,1,False
+M49,dipeptidyl-peptidase III,45,3,False
+N09,intein-containing V-type proton ATPase catalytic subunit A,45,17,False
+C12,ubiquitinyl hydrolase-L1,45,2,False
+A24,type 4 prepilin peptidase 1,42,11,False
+S28,lysosomal Pro-Xaa carboxypeptidase,42,2,True
+S46,dipeptidyl-peptidase 7 ({Porphyromonas gingivalis}-type),40,2,False
+N08,poliovirus capsid VP0-type self-cleaving protein,40,39,False
+A22,presenilin 1,40,8,False
+C60,sortase A ({Staphylococcus}-type),39,12,False
+M61,glycyl aminopeptidase,36,2,False
+C54,ATG4 peptidase,36,6,False
+C9,lysosomal dipeptidase II,34,3,False
+S06,IgA1-specific serine peptidase ({Neisseria}-type),34,7,False
+M34,anthrax lethal factor,33,8,False
+C47,staphopain A,33,3,False
+S16,Lon-A peptidase,32,5,False
+A25,gpr peptidase,32,9,False
+C39,bacteriocin-processing peptidase,32,15,False
+S07,flavivirin,31,8,False
+T02,glycosylasparaginase precursor,31,2,False
+A9,pycnoporopepsin,31,4,False
+S21,assemblin,30,8,False
+G05,RCE1 peptidase ({Saccharomyces cerevisiae}-type),28,3,False
+S80,prohead peptidase gp175 (Pseudomonas aeruginosa phage phiKZ),28,2,False
+M06,immune inhibitor A peptidase ({Bacillus} sp.),27,6,False
+S14,peptidase Clp (type 1),27,2,False
+C05,adenain,26,5,False
+S32,equine arteritis virus serine peptidase,25,4,False
+M87,chloride channel accessory protein 1,24,6,False
+M103,TldD peptidase ({Escherichia coli}),24,2,False
+C16,murine hepatitis coronavirus papain-like peptidase 1,23,9,False
+M72,peptidyl-Asp metallopeptidase,23,6,False
+M27,tentoxilysin,23,6,False
+M15,zinc D-Ala-D-Ala carboxypeptidase ({Streptomyces}-type),22,2,False
+C11,clostripain,22,6,False
+M08,leishmanolysin,20,6,False
+M48,Ste24 peptidase,20,6,False
+S11,D-Ala-D-Ala carboxypeptidase A,19,1,False
+C85,OTUD5 peptidase ({Homo sapiens}),19,3,False
+C64,Cezanne peptidase,19,2,False
+A05,thermopsin,18,3,False
+C24,feline calicivirus 3C-like peptidase,18,5,False
+C65,otubain-1,16,2,False
+C40,dipeptidyl-peptidase VI (bacteria),16,3,False
+M43,cytophagalysin,16,4,False
+C50,separase (yeast-type),16,4,False
+M38,isoaspartyl dipeptidase (metallo-type),15,1,False
+M30,hyicolysin,15,3,False
+M36,fungalysin,15,3,False
+M67,PSMD14 peptidase,15,6,False
+A28,skin SASPase,15,3,False
+S77,prohead peptidase gp21 (bacteriophage T4),15,1,False
+S49,signal peptide peptidase A ({Pseudomonas aeruginosa}),15,4,False
+M18,aminopeptidase I,14,2,True
+M29,aminopeptidase T,14,2,False
+C69,dipeptidase A,13,2,False
+C15,pyroglutamyl-peptidase I (prokaryote),13,2,False
+M05,mycolysin,12,2,False
+M50,site 2 peptidase,12,7,False
+C37,calicivirin,12,7,False
+S13,D-Ala-D-Ala peptidase C,12,2,False
+A11,Copia transposon peptidase,12,4,False
+A09,spumapepsin,11,5,False
+S60,lactoferrin,11,4,False
+C78,UfSP1 peptidase,11,2,False
+C46,hedgehog protein,11,7,False
+M73,camelysin,11,3,False
+M54,archaelysin,10,3,False
+M19,membrane dipeptidase,10,1,False
+S15,Xaa-Pro dipeptidyl-peptidase,10,1,False
+C28,foot-and-mouth disease virus L-peptidase,9,5,False
+C56,PfpI peptidase,9,2,False
+S24,repressor LexA,9,6,False
+M55,D-aminopeptidase DppA,8,1,False
+C58,YopT peptidase,8,6,False
+S51,dipeptidase E,8,1,False
+C113,IgdE peptidase ({Streptococcus suis}),8,1,False
+M75,imelysin,8,2,False
+C80,RTX self-cleaving toxin,7,3,False
+M11,gametolysin,7,5,False
+A31,HybD peptidase,7,4,False
+A03,cauliflower mosaic virus-type peptidase,7,3,False
+C67,CylD peptidase,7,2,False
+T03,gamma-glutamyltransferase 1 (bacterial-type),7,5,False
+S66,murein tetrapeptidase LD-carboxypeptidase ({Pseudomonas}-type),7,1,False
+C32,equine arteritis virus-type cysteine peptidase,7,5,False
+A37,sso1175 g.p. ({Sulfolobus solfataricus}),6,1,False
+C63,African swine fever virus processing peptidase,6,1,False
+C09,sindbis virus-type nsP2 peptidase,6,2,False
+S29,hepacivirin,6,2,False
+S69,Tellina virus 1 VP4 peptidase,6,1,False
+M60,ZmpB peptidase ({Clostridium perfringens}),6,2,False
+C124,Lem27 ({Legionella pneumophila}),5,1,False
+C33,equine arteritis virus Nsp2-type cysteine peptidase,5,4,False
+N06,YscU protein,5,4,False
+M90,MtfA peptidase,5,1,False
+C49,Strawberry mottle virus 3C-like peptidase,5,1,False
+S39,sobemovirus peptidase,5,2,False
+A08,signal peptidase II,5,2,False
+C57,vaccinia virus I7L processing peptidase,4,2,False
+C51,D-alanyl-glycyl peptidase (staphylococcal phage phi11-type),4,1,False
+C120,mavirus processing peptidase,4,1,False
+C98,USPL1 peptidase,4,1,False
+S81,destabilase,4,1,False
+A36,sporulation factor SpoIIGA,4,4,False
+S85,small protease ({Pseudomonas aeruginosa}),4,1,False
+C66,IdeS peptidase,4,2,False
+C76,viral tegument protein deubiquitinylating peptidase,4,2,False
+C53,pestivirus Npro peptidase,4,4,False
+C55,YopJ protein,4,2,False
+S31,pestivirus NS3 polyprotein peptidase,4,1,False
+S75,White bream virus serine peptidase,4,1,False
+P02,EGF-like module containing mucin-like hormone receptor-like 2,4,1,False
+M07,snapalysin,4,2,False
+C82,"L,D-transpeptidase ({Enterococcus}-type)",4,3,False
+S30,potyvirus P1 peptidase,3,3,False
+M74,murein endopeptidase,3,1,False
+S55,SpoIVB peptidase,3,1,False
+S37,PS-10 peptidase,3,2,False
+S59,nucleoporin 145,3,3,False
+S45,penicillin G acylase precursor,3,2,False
+C21,tymovirus peptidase,3,3,False
+C26,gamma-glutamyl hydrolase,3,1,False
+C79,ElaD peptidase ({Escherichia}-type),3,1,False
+C42,beet yellows virus-type papain-like peptidase,3,3,False
+C87,nairovirus deubiquitinylating peptidase,3,2,False
+G03,strawberry mottle virus glutamic peptidase,3,2,False
+C70,AvrRpt2 peptidase,3,2,False
+C86,ataxin-3,2,1,False
+T05,ornithine acetyltransferase precursor,2,2,False
+A39,TseI g.p. ({Aeromonas dhakensis}),2,1,False
+C89,acid ceramidase precursor,2,2,False
+C99,iflavirus processing peptidase,2,1,False
+C83,gamma-glutamylcysteine dipeptidyltranspeptidase,2,1,False
+S65,picornain-like serine peptidase (Breda-1 torovirus),2,1,False
+S74,Escherichia coli phage K1F endosialidase CIMCD self-cleaving protein,2,2,False
+C106,archaeosortase A ({Haloferax volcanii }),2,1,False
+S68,PIDD auto-processing protein unit 1,2,1,False
+M56,BlaR1 peptidase,2,1,False
+C95,lysosomal 66.3 kDa protein ({Mus musculus}-type),2,1,False
+C62,gill-associated virus 3C-like peptidase,2,1,False
+M101,flagellinolysin,2,1,False
+C45,acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase precursor,2,2,False
+M85,NleC peptidase ({Escherichia coli}),2,1,False
+G06,Ras/Rap1-specific peptidase,2,2,False
+C06,potato virus Y-type helper component peptidase,2,2,False
+C105,papain-like peptidase 1 alpha (simian hemorrhagic fever virus),2,1,False
+N01,nodavirus peptide lyase,2,2,False
+M99,Csd4 peptidase ({Helicobacter pylori}),2,2,False
+C118,EspL g.p. ({Escherichia coli}),2,1,False
+S03,togavirin,2,2,False
+C108,Prp peptidase ({Staphylococcus aureus}),2,2,False
+N04,Tsh-associated self-cleaving domain ({Escherichia coli}) and similar,2,2,False
+N11,intein-containing chloroplast ATP-dependent peptide lyase,2,1,False
+C107,alphamesonivirus 3C-like peptidase,2,1,False
+M64,IgA peptidase ({Clostridium ramosum}-type),2,1,False
+C18,hepatitis C virus peptidase 2,2,2,False
+C74,pestivirus NS2 peptidase,1,1,False
+C75,AgrB peptidase,1,1,False
+C71,pseudomurein endoisopeptidase Pei,1,1,False
+G02,pre-neck appendage protein (Bacillus phage phi29),1,1,False
+U40,protein P5 murein endopeptidase (bacteriophage phi-6),1,1,False
+C93,LapG peptidase ({Pseudomonas fluorescens}),1,1,False
+C96,McjB peptidase,1,1,False
+T07,CwpV ({Clostridium difficile}) self-cleaving threonine peptidase,1,1,False
+C84,prtH peptidase ({Tannerella forsythensis} ATCC 43037),1,1,False
+U72,Dop isopeptidase,1,1,False
+U49,Lit peptidase,1,1,False
+U69,AIDA-I self-cleaving autotransporter protein ({Escherichia coli}),1,1,False
+C97,desumoylating isopeptidase 1,1,1,False
+S82,autocrine proliferation repressor protein A ({Dictyostelium discoideum}),1,1,False
+C59,penicillin V acylase precursor,1,1,False
+G04,Tiki1 peptidase,1,1,False
+C27,rubella virus peptidase,1,1,False
+M86,PghP gamma-polyglutamate hydrolase (bacteriophage),1,1,False
+M78,ImmA peptidase,1,1,False
+C23,carlavirus peptidase,1,1,False
+M88,IMPa peptidase ({Pseudomonas aeruginosa}),1,1,False
+M76,ATP23 peptidase ({Saccharomyces cerevisiae}-type),1,1,False
+M44,pox virus metallopeptidase,1,1,False
+M26,IgA1-specific metallopeptidase,1,1,False
+M102,DA1 peptidase ({Arabidopsis thaliana}),1,1,False
+M100,spartan peptidase,1,1,False
+C44,amidophosphoribosyltransferase precursor,1,1,False
+M98,YghJ g.p. ({Escherichia coli}),1,1,False
+M95,selecase ({Methanocaldococcus jannaschii}),1,1,False
+M91,NleD peptidase ({Escherichia coli}-type),1,1,False
+P01148,nan,1,1,False
+C110,kyphoscoliosis peptidase,1,1,False
+P02666,nan,1,1,False
+C111,coagulation factor XIIIa,1,1,False
+C115,MINDY-1 protein,1,1,False
+C121,MINDY-4 peptidase,1,1,False
+N02,tetravirus coat protein,1,1,False
+N07,reovirus type 1 coat protein,1,1,False
+C07,chestnut blight fungus virus p29 peptidase,1,1,False
+C08,chestnut blight fungus virus p48 peptidase,1,1,False
+C104,PlyPy phage lysin,1,1,False
+C102,GtgE peptidase,1,1,False
+C101,OTULIN peptidase,1,1,False
+S71,MUC1 self-cleaving mucin,1,1,False
+S73,gpO peptidase (Enterobacteria phage P2),1,1,False
+S72,dystroglycan,1,1,False
+S79,CARD8 self-cleaving protein,1,1,False
+X42,protease I,1,1,False

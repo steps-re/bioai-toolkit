@@ -41,6 +41,13 @@ with col_hero2:
 
 st.markdown("---")
 
+# ---- Sam's Workbench (top of page) ----
+st.markdown("## Sam's Workbench")
+st.markdown("Your command center: ingest data, run analyses, get recommendations, predict stability.")
+st.page_link("pages/18_Sams_Workbench.py", label="Open Workbench", icon="🔬")
+
+st.markdown("---")
+
 # ---- Rozans Analysis + Enzyme Viz + Commercial (top section) ----
 st.markdown("## Rozans Peptide Intelligence")
 
@@ -148,6 +155,24 @@ with col10:
     st.page_link("pages/14_Self_Assembly.py", label="Open Self-Assembly", icon="🔗")
 
 st.markdown("---")
+
+# ---- ExoPred / Market Intelligence ----
+st.markdown("## ExoPred Intelligence")
+st.markdown("Integrated public datasets and market analysis for the ExoPred peptide stability prediction platform")
+
+col11, col12 = st.columns(2)
+
+with col11:
+    st.markdown("### ExoPred Training Data")
+    st.markdown("108K MEROPS cleavages, 4,500 PEPlife2 half-lives, 1,330 DPP-IV peptides, 8,320 ChEMBL bioactivities. Integrated and ready for ML.")
+    st.page_link("pages/16_ExoPred_Data.py", label="Open ExoPred Data Explorer", icon="🧠")
+
+with col12:
+    st.markdown("### GLP-1 Market Intelligence")
+    st.markdown("The commercial case: patent cliffs, biosimilar wave, competitive landscape, CRO pricing, and ExoPred revenue model.")
+    st.page_link("pages/17_GLP1_Market.py", label="Open GLP-1 Market Intel", icon="💰")
+
+st.markdown("---")
 st.markdown("#### Data Sources")
 st.markdown(
     "AlphaFold DB (EBI) | UniProt | PubChem (NCBI) | NCBI BLAST | MEROPS | "
@@ -159,6 +184,8 @@ st.markdown(
     "Zanuy et al. PCCP 2016 | Pashuck & Stupp JACS 2010 | "
     "Eckhard et al. Matrix Biology 2016 | Ratnikov et al. PNAS 2014 | "
     "Chen et al. PNAS 2012 | Patterson & Hubbell Biomaterials 2010 | "
-    "CleaveNet Nature Comm 2026 | MEROPS (EBI)"
+    "CleaveNet Nature Comm 2026 | MEROPS (EBI) | "
+    "PEPlife2 (IIIT Delhi) | ChEMBL (EBI) | iDPPIV (Charoenkwan 2020) | "
+    "BRENDA (TU Braunschweig)"
 )
 st.caption("Built by Steps Ventures | Sam Rozans, Venture Associate | Mike German, Ph.D., P.E., Managing Partner")
